@@ -1,0 +1,83 @@
+
+
+
+h1 {
+    text-align: center;
+     
+}
+
+.checked {
+  color: orange;
+  font-size:x-large;
+    
+  }
+
+input {
+  
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: left;
+
+ }
+ 
+td{
+  
+  margin-right: auto;  
+  text-align: justisfy;  
+  font-size: 18px; 
+
+ }
+ 
+.type_radio_1{
+  
+  display: flex;
+  justify-content: center;
+}
+.type_radio_2{
+
+  display: flex;
+  justify-content: center;
+}
+.type_radio_3{
+
+  display: flex;
+  justify-content: center;
+}
+.type_radio_4{
+  
+  display: flex;
+  justify-content: center;
+}
+.type_radio_5{
+
+  display: flex;
+  justify-content: center;
+}
+.type_radio_6{
+
+  display: flex;
+  justify-content: center;
+}
+
+.first{
+  background-color: rgb(238, 232, 232);
+}
+.second{
+  background-color: rgb(238, 232, 232);
+}
+.third{
+  background-color: rgb(238, 232, 232);
+}
+
+.fourth{
+  background-color: rgb(238, 232, 232);
+}
+
+ th {    
+  
+  margin-right: auto;  
+  text-align: center;  
+  font-size: 15px;  
+  }    
